@@ -8,13 +8,13 @@ Below, there is images os the two pages made thinking in responsivity.
 
 There que main content, a header with link for navigation and a footer.
 
-##Used tools
+## Used tools
 
-*HTML
-*CSS
-*Flex-Box
+* HTML
+* CSS
+* Flex-Box
 
-##Made by:
+## Made by:
 
-###Renato Rocha based on Alura's front end course
-###LinkedIn: https://linkedin.com/in/renato-gonzaga-rocha
+### Renato Rocha based on Alura's front end course
+### LinkedIn: https://linkedin.com/in/renato-gonzaga-rocha
