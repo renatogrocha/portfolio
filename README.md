@@ -7,7 +7,8 @@ Below, there is images os the two pages made thinking in responsivity.
 ![image](https://github.com/renatogrocha/portfolio/assets/95312669/ef427ed2-f68c-4ee1-a9c6-7e37061ff727)
 
 
-There que main content, a header with link for navigation and a footer.
+There is a main content, a header with link for navigation and a footer.
+It was made really simple way, but i'm pretending to improve it in the future, to add more functionalities and increase the design.
 
 ## Used tools
 
